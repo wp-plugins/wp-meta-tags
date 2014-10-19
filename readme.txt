@@ -3,7 +3,7 @@ Plugin Name: WP Meta Tags
 Version: 1.5.0
 Donate link: http://www.seo.uk.net
 URI: http://seo.uk.net/wp-meta-tags/
-Tags: meta, tags, meta tags, seo, meta data, data, seo, google, yahoo, bing, title, description, keyword, keywords, post, posts, page, pages, link, links, wordpress, admin, plugin, optimization, nofollow, rel, author
+Tags: meta, tags, meta tags, seo, meta data, data, seo, google, yahoo, bing, title, description, keyword, keywords, post, posts, page, pages, link, links, wordpress, admin, plugin, optimization, nofollow, rel, author, categories, taxonomy, index
 Requires at least: 2.8.0
 Tested up to: 4.0
 Stable tag: trunk
